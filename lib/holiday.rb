@@ -94,6 +94,10 @@ def all_holidays_with_bbq(holiday_hash)
   # include the string "BBQ"
 
   holiday_hash.each do |key, value|
-    
+    value.each do |attribute, data|
+
+
+    end
+  end
 
 end
