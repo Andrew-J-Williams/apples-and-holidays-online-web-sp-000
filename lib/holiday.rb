@@ -101,7 +101,7 @@ def all_holidays_with_bbq(holiday_hash)
         if items == "BBQ"
           bbq_holidays << attribute
         end
-
+      end
     end
   end
 
