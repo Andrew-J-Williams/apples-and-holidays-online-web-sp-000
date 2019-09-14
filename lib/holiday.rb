@@ -100,6 +100,7 @@ def all_holidays_with_bbq(holiday_hash)
       data.each do |items|
         if items == "BBQ"
           bbq_holidays << attribute
+        end
 
     end
   end
